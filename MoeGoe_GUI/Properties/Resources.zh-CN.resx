@@ -121,73 +121,73 @@
     <value>MoeGoe.exe</value>
   </data>
   <data name="openEXE.Text" xml:space="preserve">
-    <value>Open .exe</value>
+    <value>打开文件</value>
   </data>
   <data name="modelPanel.Text" xml:space="preserve">
-    <value>Model</value>
+    <value>模型文件</value>
   </data>
   <data name="openConfig.Text" xml:space="preserve">
-    <value>Open Conf</value>
+    <value>打开配置</value>
   </data>
   <data name="openModel.Text" xml:space="preserve">
-    <value>Open Moel</value>
+    <value>打开模型</value>
   </data>
   <data name="TTSPage.Text" xml:space="preserve">
-    <value>Speech Synthesis</value>
+    <value>语音合成</value>
   </data>
   <data name="cleanButton2.Text" xml:space="preserve">
-    <value>Clear Text</value>
+    <value>清理文本</value>
   </data>
   <data name="symbolsButton2.Text" xml:space="preserve">
-    <value>Symbol</value>
+    <value>符号输入</value>
   </data>
   <data name="paramsButton2.Text" xml:space="preserve">
-    <value>Parameter</value>
+    <value>参数设置</value>
   </data>
   <data name="speakerLabel.Text" xml:space="preserve">
-    <value>Speaker</value>
+    <value>说话人</value>
   </data>
   <data name="textLabel.Text" xml:space="preserve">
-    <value>Text</value>
+    <value>文本</value>
   </data>
   <data name="cleanButton.Text" xml:space="preserve">
-    <value>Clear Text</value>
+    <value>清理文本</value>
   </data>
   <data name="paramsButton.Text" xml:space="preserve">
-    <value>Parameter</value>
+    <value>参数设置</value>
   </data>
   <data name="symbolsButton.Text" xml:space="preserve">
-    <value>Symbol</value>
+    <value>符号输入</value>
   </data>
   <data name="VCPage.Text" xml:space="preserve">
-    <value>Voice Convert</value>
+    <value>语音转换</value>
   </data>
   <data name="openOrigin.Text" xml:space="preserve">
-    <value>Original Audio</value>
+    <value>打开原音频</value>
   </data>
   <data name="originLabel.Text" xml:space="preserve">
-    <value>Original Speaker</value>
+    <value>原说话人</value>
   </data>
   <data name="targetLabel.Text" xml:space="preserve">
-    <value>Target Speaker</value>
+    <value>目标说话人</value>
   </data>
   <data name="savePanel.Text" xml:space="preserve">
-    <value>Save File</value>
+    <value>保存文件</value>
   </data>
   <data name="deleteButton.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>删除</value>
   </data>
   <data name="stopButton.Text" xml:space="preserve">
-    <value>Stop</value>
+    <value>停止</value>
   </data>
   <data name="resaveButton.Text" xml:space="preserve">
-    <value>Re-Synth</value>
+    <value>重新合成</value>
   </data>
   <data name="playButton.Text" xml:space="preserve">
-    <value>Play</value>
+    <value>播放</value>
   </data>
   <data name="saveButton.Text" xml:space="preserve">
-    <value>Save</value>
+    <value>保存</value>
   </data>
   <data name="vitsPage.Text" xml:space="preserve">
     <value>VITS</value>
@@ -196,76 +196,76 @@
     <value>HuBERT-VITS</value>
   </data>
   <data name="HOpenOrigin.Text" xml:space="preserve">
-    <value>Origin Audio</value>
+    <value>打开原音频</value>
   </data>
   <data name="HVCPage1.Text" xml:space="preserve">
-    <value>Lang Switch(1)</value>
+    <value>语言转换（模式一）</value>
   </data>
   <data name="HAdvancedControl.Text" xml:space="preserve">
-    <value>Advanced</value>
+    <value>高级设置</value>
   </data>
   <data name="HTargetLabel.Text" xml:space="preserve">
-    <value>Target</value>
+    <value>目标说话人</value>
   </data>
   <data name="HVCPage2.Text" xml:space="preserve">
-    <value>Lang Switch(2)</value>
+    <value>语音转换（模式二）</value>
   </data>
   <data name="HOriginLabel.Text" xml:space="preserve">
-    <value>Original</value>
+    <value>原说话人</value>
   </data>
   <data name="HOriginLabel2.Text" xml:space="preserve">
-    <value>Target</value>
+    <value>目标说话人</value>
   </data>
   <data name="HModelPanel.Text" xml:space="preserve">
-    <value>Model</value>
+    <value>模型文件</value>
   </data>
   <data name="HOpenHubert.Text" xml:space="preserve">
-    <value>HuBERT Model</value>
+    <value>HuBERT模型</value>
   </data>
   <data name="HOpenConfig.Text" xml:space="preserve">
-    <value>VITS Conf</value>
+    <value>VITS配置</value>
   </data>
   <data name="HOpenModel.Text" xml:space="preserve">
-    <value>VITS Model</value>
+    <value>VITS模型</value>
   </data>
   <data name="w2v2Page.Text" xml:space="preserve">
     <value>W2V2-VITS</value>
   </data>
   <data name="tabPage1.Text" xml:space="preserve">
-    <value>Speech Synthesis</value>
+    <value>语音合成</value>
   </data>
   <data name="emotionButton.Text" xml:space="preserve">
-    <value>Emotion</value>
+    <value>情感参考</value>
   </data>
   <data name="WSpeakerLabel.Text" xml:space="preserve">
-    <value>Sepaker</value>
+    <value>说话人</value>
   </data>
   <data name="WTextLabel.Text" xml:space="preserve">
-    <value>Text</value>
+    <value>文本</value>
   </data>
   <data name="tabPage2.Text" xml:space="preserve">
-    <value>Voice Convert</value>
+    <value>语音转换</value>
   </data>
   <data name="WOpenOrigin.Text" xml:space="preserve">
-    <value>Original Audio</value>
+    <value>打开原音频</value>
   </data>
   <data name="WOriginLabel.Text" xml:space="preserve">
-    <value>Original</value>
+    <value>原说话人</value>
   </data>
   <data name="WTargetLabel.Text" xml:space="preserve">
-    <value>Target</value>
+    <value>目标说话人</value>
   </data>
   <data name="WModelPanel.Text" xml:space="preserve">
-    <value>Model</value>
+    <value>模型文件</value>
   </data>
   <data name="W2V2Model.Text" xml:space="preserve">
-    <value>ERM</value>
+    <value>情感识别模型</value>
   </data>
   <data name="WOpenConfig.Text" xml:space="preserve">
-    <value>VITS Conf</value>
+    <value>VITS配置</value>
   </data>
   <data name="WOpenModel.Text" xml:space="preserve">
-    <value>VITS Model</value>
+    <value>VITS模型</value>
   </data>
   <data name="this.Text" xml:space="preserve">
     <value>MoeGoe</value>

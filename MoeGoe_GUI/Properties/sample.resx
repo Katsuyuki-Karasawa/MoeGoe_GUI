@@ -1,0 +1,155 @@
+<data name="EXEPanel.Text" xml:space="preserve">
+  <value>MoeGoe.exe</value>
+</data>
+<data name="openEXE.Text" xml:space="preserve">
+  <value>打开文件</value>
+</data>
+<data name="modelPanel.Text" xml:space="preserve">
+  <value>模型文件</value>
+</data>
+<data name="openConfig.Text" xml:space="preserve">
+  <value>打开配置</value>
+</data>
+<data name="openModel.Text" xml:space="preserve">
+  <value>打开模型</value>
+</data>
+<data name="TTSPage.Text" xml:space="preserve">
+  <value>语音合成</value>
+</data>
+<data name="cleanButton2.Text" xml:space="preserve">
+  <value>清理文本</value>
+</data>
+<data name="symbolsButton2.Text" xml:space="preserve">
+  <value>符号输入</value>
+</data>
+<data name="paramsButton2.Text" xml:space="preserve">
+  <value>参数设置</value>
+</data>
+<data name="speakerLabel.Text" xml:space="preserve">
+  <value>说话人</value>
+</data>
+<data name="textLabel.Text" xml:space="preserve">
+  <value>文本</value>
+</data>
+<data name="cleanButton.Text" xml:space="preserve">
+  <value>清理文本</value>
+</data>
+<data name="paramsButton.Text" xml:space="preserve">
+  <value>参数设置</value>
+</data>
+<data name="symbolsButton.Text" xml:space="preserve">
+  <value>符号输入</value>
+</data>
+<data name="VCPage.Text" xml:space="preserve">
+  <value>语音转换</value>
+</data>
+<data name="openOrigin.Text" xml:space="preserve">
+  <value>打开原音频</value>
+</data>
+<data name="originLabel.Text" xml:space="preserve">
+  <value>原说话人</value>
+</data>
+<data name="targetLabel.Text" xml:space="preserve">
+  <value>目标说话人</value>
+</data>
+<data name="savePanel.Text" xml:space="preserve">
+  <value>保存文件</value>
+</data>
+<data name="deleteButton.Text" xml:space="preserve">
+  <value>删除</value>
+</data>
+<data name="stopButton.Text" xml:space="preserve">
+  <value>停止</value>
+</data>
+<data name="resaveButton.Text" xml:space="preserve">
+  <value>重新合成</value>
+</data>
+<data name="playButton.Text" xml:space="preserve">
+  <value>播放</value>
+</data>
+<data name="saveButton.Text" xml:space="preserve">
+  <value>保存</value>
+</data>
+<data name="vitsPage.Text" xml:space="preserve">
+  <value>VITS</value>
+</data>
+<data name="hubertPage.Text" xml:space="preserve">
+  <value>HuBERT-VITS</value>
+</data>
+<data name="HOpenOrigin.Text" xml:space="preserve">
+  <value>打开原音频</value>
+</data>
+<data name="HVCPage1.Text" xml:space="preserve">
+  <value>
+<data name="HVCPage1.Text" xml:space="preserve">
+  <value>语言转换（模式一）</value>
+</data>
+<data name="HAdvancedControl.Text" xml:space="preserve">
+  <value>高级设置</value>
+</data>
+<data name="HTargetLabel.Text" xml:space="preserve">
+  <value>目标说话人</value>
+</data>
+<data name="HVCPage2.Text" xml:space="preserve">
+  <value>语音转换（模式二）</value>
+</data>
+<data name="HOriginLabel.Text" xml:space="preserve">
+  <value>原说话人</value>
+</data>
+<data name="HOriginLabel2.Text" xml:space="preserve">
+  <value>目标说话人</value>
+</data>
+<data name="HModelPanel.Text" xml:space="preserve">
+  <value>模型文件</value>
+</data>
+<data name="HOpenHubert.Text" xml:space="preserve">
+  <value>HuBERT模型</value>
+</data>
+<data name="HOpenConfig.Text" xml:space="preserve">
+  <value>VITS配置</value>
+</data>
+<data name="HOpenModel.Text" xml:space="preserve">
+  <value>VITS模型</value>
+</data>
+<data name="w2v2Page.Text" xml:space="preserve">
+  <value>W2V2-VITS</value>
+</data>
+<data name="tabPage1.Text" xml:space="preserve">
+  <value>语音合成</value>
+</data>
+<data name="emotionButton.Text" xml:space="preserve">
+  <value>情感参考</value>
+</data>
+<data name="WSpeakerLabel.Text" xml:space="preserve">
+  <value>说话人</value>
+</data>
+<data name="WTextLabel.Text" xml:space="preserve">
+  <value>文本</value>
+</data>
+<data name="tabPage2.Text" xml:space="preserve">
+  <value>语音转换</value>
+</data>
+<data name="WOpenOrigin.Text" xml:space="preserve">
+  <value>打开原音频</value>
+</data>
+<data name="WOriginLabel.Text" xml:space="preserve">
+  <value>原说话人</value>
+</data>
+<data name="WTargetLabel.Text" xml:space="preserve">
+  <value>目标说话人</value>
+</data>
+<data name="WModelPanel.Text" xml:space="preserve">
+  <value>模型文件</value>
+</data>
+<data name="W2V2Model.Text" xml:space="preserve">
+  <value>情感识别模型</value>
+</data>
+<data name="WOpenConfig.Text" xml:space="preserve">
+  <value>VITS配置</value>
+</data>
+<data name="WOpenModel.Text" xml:space="preserve">
+  <value>VITS模型</value>
+</data>
+<data name="$this.Text" xml:space="preserve">
+  <value>MoeGoe</value>
+</data>
