@@ -337,7 +337,7 @@ namespace MoeGoe_GUI
             GetConfigBox(out TextBox box, out string key, out Action check);
             if (e.KeyChar == '\r')
                 if (!File.Exists(box.Text))
-                    MessageBox.Show("ファイルが存在しません", "",
+                    MessageBox.Show("文件不存在！", "",
                         MessageBoxButtons.OK, MessageBoxIcon.Error);
                 else
                 {
@@ -508,7 +508,7 @@ namespace MoeGoe_GUI
                         case 0:
                             if (textBox.Text.Length == 0)
                             {
-                                MessageBox.Show("テキストを入力してください", "",
+                                MessageBox.Show("请输入文本！", "",
                                     MessageBoxButtons.OK, MessageBoxIcon.Warning);
                                 return false;
                             }
